@@ -1,0 +1,28 @@
+body{
+margin: 15px;
+max-width:38%;
+border: solid black 1cqmax;
+border-radius: 18px;
+}
+
+p{
+margin-left:1px;
+text-align:justify;
+margin-bottom: 5px;
+padding: 10px;
+color: rgb(0, 0, 0);
+}
+
+h1{
+text-align: center;
+text-decoration: underline;
+margin-bottom: 50px;
+margin-top: 35px;
+ color: rgb(252, 2, 2);
+}
+
+div{
+
+    text-align: center;
+}
+
